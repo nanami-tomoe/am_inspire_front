@@ -1,8 +1,5 @@
 # Frontend Learning Project - Codebase Analysis
 
-이 문서는 `frontend/front` 프로젝트 내에서 실습한 **모든 문법 요소와 개념**을 상세하게 정리한 기술 사양서(Specification)입니다.
-단순한 코드 모음이 아니라, 각 코드가 어떤 역할을 하는지, 어떤 문법이 사용되었는지를 사전(Dictionary) 형태로 정리했습니다.
-
 ---
 
 ## 1. HTML5 (HyperText Markup Language)
